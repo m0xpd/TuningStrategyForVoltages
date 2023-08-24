@@ -1,9 +1,9 @@
 # Tuning Strategy for Voltages
 This repository describes an approach to tuning the Music Thing Modular 'Voltages' Expander
 
-The tuning strategy is described in detail in documentation here.
+The tuning strategy is described in detail in [documentation here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Documentation).
 
-It is supported by software examples, presented in Python, available for download here.
+It is supported by software examples, presented in Python, available for [download here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Code).
 
 However, the material above is rather dry and boring - YouTube videos demonstrating the technique from 
 a practical and musical perspective are linked here and a ctatalogue of musically useful tunings is 
