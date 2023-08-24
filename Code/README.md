@@ -1,4 +1,4 @@
-This folder contains code to support the Tuning Strategy and - particularly - the examples presented in this document.
+This folder contains [code](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) to support the Tuning Strategy and - particularly - the examples presented in this document.
 
 The Python code here includes functions which identify the pitches in the sequences produced by any setting of the 
 sliders on the Voltages expander.
