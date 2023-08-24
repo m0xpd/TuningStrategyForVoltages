@@ -8,7 +8,7 @@ Whilst special focus is placed on the integer ('semi-tone') settings which are t
 
 The code was developed under the [PyCharm IDE](https://www.jetbrains.com/pycharm/) on a MacBook running macOS Ventura 13.5.
 
-Earlier (MATLAB) code was developed in [Octave](https://octave.org/) and is archived in [this folder](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Code) for completeness.
+Earlier (MATLAB) code was developed in [Octave](https://octave.org/) and is archived in [this folder](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Code/MATLAB)) for completeness.
 
 The code includes:
 
