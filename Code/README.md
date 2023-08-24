@@ -1,7 +1,7 @@
 This folder contains [code](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) to support the Tuning Strategy and - particularly - the examples presented in this document.
 
-The Python code here includes functions which identify the pitches in the sequences produced by any setting of the 
-sliders on the Voltages expander.
+The [Python code here](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) includes functions which identify  pitches in the sequences produced by any setting of the
+sliders on a Voltages expander.
 
 Whilst special focus is placed on the integer / 'semi-tone' settings which are the basis of the tuning strategy, non-integer 
 (microtonal) settings are also supported.
