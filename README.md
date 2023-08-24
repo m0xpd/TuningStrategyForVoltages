@@ -1,5 +1,5 @@
 # Tuning Strategy for Voltages
-This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['Voltages' Expander\(https://www.musicthing.co.uk/Turing-Voltages-Expander/)
+This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['Voltages' Expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/)
 
 The tuning strategy is described in detail in [documentation here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Documentation).
 
