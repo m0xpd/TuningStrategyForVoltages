@@ -3,8 +3,8 @@ This folder contains [code](https://github.com/m0xpd/TuningStrategyForVoltages/b
 The [Python code here](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) includes functions which identify  pitches in the sequences produced by any setting of the
 sliders on a Voltages expander.
 
-Whilst special focus is placed on the integer / 'semi-tone' settings which are the basis of the tuning strategy, non-integer 
-(microtonal) settings are also supported.
+Whilst special focus is placed on the integer ('semi-tone') settings which are the basis of the tuning strategy, non-integer 
+(microtonal) settings are also fully supported.
 
 The code was developed under the [PyCharm IDE](https://www.jetbrains.com/pycharm/) on a MacBook running macOS Ventura 13.5.
 
