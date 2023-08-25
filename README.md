@@ -15,7 +15,7 @@ a practical and musical perspective are [linked here](https://github.com/m0xpd/T
 presented in section 13 of [the description](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf).
 
 The Tuning Strategy motivates some modifications of the VOLTAGES expander module to correct significant 
-non-linearity in the operation of Voltages' sliders, which is described here and some additions to the 
+non-linearity in the operation of Voltages' sliders, which is described [here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/SliderNonLinearity) and some additions to the 
 Turing Machine itself, to avoid tuning problems caused when Gates and Pulses outputs are loaded, 
 which are described here.
 
