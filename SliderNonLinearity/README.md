@@ -1,7 +1,7 @@
 # Correcting the Non-Linearity of Voltages' Sliders
 
 This folder describes a modification to Voltages to correct non-linear response of the sliders, described in detail 
-in Appendix B of [this document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf).
+in Appendix B of [this document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/A%20Tuning%20Strategy%20for%20Voltages.pdf).
 
 I notified Tom Whitwell (designer of the Turing Machine and the Voltages Expander) of a non-linearity in the response 
 of the sliders in-circuit by email (5 August 2023). After replying to me, Tom posted the greater part of that email 
