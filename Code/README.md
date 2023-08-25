@@ -1,4 +1,4 @@
-This folder contains [code](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) to support the Tuning Strategy and - particularly - the examples presented in [this document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf).
+This folder contains [code](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) to support the Tuning Strategy and - particularly - the examples presented in [this document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/A%20Tuning%20Strategy%20for%20Voltages.pdf)
 
 The [Python code here](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Code/Tuning%20Voltages) includes functions which identify  pitches in the sequences produced by any setting of the
 sliders on a Voltages expander.
@@ -16,11 +16,11 @@ The Python code includes:
 
 several functions to solve for the set of all possible sequence pitches, and their distribution,  given the slider settings:
 
-**findpitches()** -      an implementation of the 'convolution method' taught in section 11 of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf)
+**findpitches()** -      an implementation of the 'convolution method' taught in section 11 of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/A%20Tuning%20Strategy%20for%20Voltages.pdf)
 
 **findpitches2()** -     an implementation in which the convolution operator is simplified
  
-**findpitchescomb()** -  a conventional combinatorial solution (see Section 7 and Appendix E of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf))
+**findpitchescomb()** -  a conventional combinatorial solution (see Section 7 and Appendix E of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/A%20Tuning%20Strategy%20for%20Voltages.pdf)
  
 **findpitchesbruteforce()** -  a '*Brute Force*' approach, which considers all options sequentially
 
