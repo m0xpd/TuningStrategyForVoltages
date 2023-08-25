@@ -15,4 +15,4 @@ non-linearity in the operation of Voltages' sliders, which is described here and
 Turing Machine itself, to avoid tuning problems caused when Gates and Pulses outputs are loaded, 
 which are described here.
 
-The tuning strategy is appliccable to othe 'Klee' sequencers.
+The tuning strategy is applicable to other 'Klee-type' sequencers.
