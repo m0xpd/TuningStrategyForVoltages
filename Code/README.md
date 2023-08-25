@@ -14,36 +14,36 @@ The Python code includes:
 
 several functions to solve for the set of all possible sequence pitches, and their distribution,  given the slider settings:
 
-findpitches()      an implementation of the 'convolution method' taught in section 11 of the document
+**findpitches()** -      an implementation of the 'convolution method' taught in section 11 of the document
 
-findpitches2()     a implementation in which the convolution operator is simplified
+**findpitches2()** -     a implementation in which the convolution operator is simplified
  
-findpitchescomb()  a conventional combinatorial solution (see Section 7 and Appendix E of the document)
+**findpitchescomb()** -  a conventional combinatorial solution (see Section 7 and Appendix E of the document)
  
-findpitchesbruteforce()  a 'Brute Force' approach, which considers all options sequentially
+**findpitchesbruteforce()** -  a '*Brute Force*' approach, which considers all options sequentially
 
-findnonintegerpitches()  an implementation of the convolution method for non-integer (microtonal) tunings
+**findnonintegerpitches()** -  an implementation of the convolution method for non-integer (microtonal) tunings
 
-findcentpitches()        an approximate method in which non-integer tunings are quantized to Cents
+**findcentpitches()** -        an approximate method in which non-integer tunings are quantized to Cents
 
 several Plotting functions to display results (developed using the [matplotlib](https://matplotlib.org/) library):
 
-pitchconstellation()  a function to display the pitches in a sequence in the root octave
+**pitchconstellation()** -  a function to display the pitches in a sequence in the root octave
  
-plotprobability()     a function to display the probability distribution of the possible notes in a sequence
+**plotprobability()** -     a function to display the probability distribution of the possible notes in a sequence
 
-plotdeltas()          a function to display the displaced Unit Sample Functions associated with a tuning (see Fig 21)
+**plotdeltas()** -          a function to display the displaced Unit Sample Functions associated with a tuning (see Fig 21)
 
 
 and some utilities:
 
-bitget(value, n)    a function to return the Boolean state of the n'th bit in the binary number 'value'
+**bitget(**_value, n_**)** -    a function to return the Boolean state of the n'th bit in the binary number 'value'
 
-cleansliders()      a function to strip redundant zeros from a 'sliders' vector
+**cleansliders()** -      a function to strip redundant zeros from a 'sliders' vector
 
-cleanoctaveshifts() a function to strip redundant octave shifts from a 'sliders' vector
+**cleanoctaveshifts()** - a function to strip redundant octave shifts from a 'sliders' vector
 
-countpitches()      a function to count occurrences of a pitch and build a frequency plot / histogram
+**countpitches()** -      a function to count occurrences of a pitch and build a frequency diagram / histogram
 
 
 The code is scruffy and badly written - it could run faster if it were re-worked by somebody more skiiled in Python 
