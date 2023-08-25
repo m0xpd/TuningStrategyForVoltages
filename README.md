@@ -1,4 +1,4 @@
-# Tuning Strategy for Voltages
+# A Tuning Strategy for Voltages
 This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['Voltages' Expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/)
 
 The 'tuning strategy' provides a simple rule to ensure that the notes in the sequences produced by Voltages all fall on 12 tone equal-tempered 
