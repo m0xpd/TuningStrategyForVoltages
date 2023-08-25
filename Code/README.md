@@ -14,11 +14,11 @@ The Python code includes:
 
 several functions to solve for the set of all possible sequence pitches, and their distribution,  given the slider settings:
 
-**findpitches()** -      an implementation of the 'convolution method' taught in section 11 of the document
+**findpitches()** -      an implementation of the 'convolution method' taught in section 11 of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf)
 
-**findpitches2()** -     a implementation in which the convolution operator is simplified
+**findpitches2()** -     an implementation in which the convolution operator is simplified
  
-**findpitchescomb()** -  a conventional combinatorial solution (see Section 7 and Appendix E of the document)
+**findpitchescomb()** -  a conventional combinatorial solution (see Section 7 and Appendix E of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf))
  
 **findpitchesbruteforce()** -  a '*Brute Force*' approach, which considers all options sequentially
 
