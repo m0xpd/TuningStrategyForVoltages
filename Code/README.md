@@ -12,6 +12,8 @@ Early (MATLAB) code was developed in [Octave](https://octave.org/) and is archiv
 
 The Python code includes:
 
+---
+
 several functions to solve for the set of all possible sequence pitches, and their distribution,  given the slider settings:
 
 **findpitches()** -      an implementation of the 'convolution method' taught in section 11 of [the document](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Voltages%20Draft%201.pdf)
@@ -26,6 +28,8 @@ several functions to solve for the set of all possible sequence pitches, and the
 
 **findcentpitches()** -        an approximate method in which non-integer tunings are quantized to Cents
 
+---
+
 several Plotting functions to display results (developed using the [matplotlib](https://matplotlib.org/) library):
 
 **pitchconstellation()** -  a function to display the pitches in a sequence in the root octave
@@ -34,6 +38,7 @@ several Plotting functions to display results (developed using the [matplotlib](
 
 **plotdeltas()** -          a function to display the displaced Unit Sample Functions associated with a tuning (see Fig 21)
 
+---
 
 and some utilities:
 
@@ -45,8 +50,9 @@ and some utilities:
 
 **countpitches()** -      a function to count occurrences of a pitch and build a frequency diagram / histogram
 
+---
 
 The code is scruffy and badly written - it could run faster if it were re-worked by somebody more skiiled in Python 
 (e.g. by removing for loops), but this would risk making the code less accessible to an unskilled audience. 
 
-It could also usefully be organised into a library - but I have neither the time or the inclination to do this. 
+It could also usefully be organised into a library - but I have neither the time nor the inclination to do this. 
