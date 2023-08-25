@@ -36,5 +36,13 @@ the semitones now appear exactly as theory predicts (close enough to a linear di
 
 ---
 
-You see from the above that I referred to the Tuning Strategy (which had not been 'revealed' at the time).
+You see from the above that I referred to the Tuning Strategy (which had not been published at the time).
+
+The non-linear response of the sliders is easily rectified if you are making a new Voltages module, by fitting a different 
+valued resistor network as described (the Bourns part number is 4609X-101-104LF). Also, the SCALE potentiometer needs to be 
+changed from the specified B10k to B100k.
+
+Unfortunately, retrofitting these modifications to an existing VOLTAGES module is all but impossible, as three sliders are 
+soldered over the resistor network, making replacement difficult. 
+
 
