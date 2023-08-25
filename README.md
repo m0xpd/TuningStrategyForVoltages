@@ -2,7 +2,7 @@
 This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['Voltages' Expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/)
 
 The 'tuning strategy' provides a simple means to ensure that the notes in the sequences produced by Voltages all fall on 12 tone equal-tempered 
-('12TET') pitches, such that a quantiser is not required. Understanding how Voltages actually operates then points to slider settings which 
+('[12TET](https://en.wikipedia.org/wiki/12_equal_temperament)') pitches, such that a quantiser is not required. Understanding how Voltages actually operates then points to slider settings which 
 produce sequences based on diatonic and symmetric scales, modes, arpeggiated chords and other musically useful structures.
 
 The tuning strategy is described in detail in [documentation here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Documentation).
