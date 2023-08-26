@@ -21,4 +21,4 @@ which are described here.
 
 The tuning strategy is applicable to other 'Klee-type' sequencers.
 
-All the material in this repository, including the tuning strategy, the documentation, and the code is published under a [Creative Commons BY-SA 4.0](https://github.com/m0xpd/encore/blob/main/LICENSE.txt) License.
+All the material in this repository, including the tuning strategy, the documentation, and the code is published under a [Creative Commons BY-SA 4.0](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/LICENSE.txt) License.
