@@ -36,7 +36,7 @@ VOLTAGES and the Turing Machine are perfect - the Turing Machine was the first c
 The results and ideas in this repository are simply reflections inspired by VOLTAGES. These reflections were made visible by standing on the shoulders of giants, such as Tom Whitwell, 
 Scott Stites and others too numerous to mention.
 
-The work is original (in that I did it myself), but I doubt it is novel (in that it is so simple that others must have done it before). There isn't much new under the sun.
+The work is original (*in that I did it myself*), but I doubt it is novel (*in that it is so simple that others must have done some or all of it before*). There isn't much new under the sun.
 
 # Licensing
 
