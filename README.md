@@ -40,4 +40,4 @@ The work is original (*in that I did it myself*), but I doubt it is novel (*in t
 
 # Licensing
 
-All the material in this repository, including the tuning strategy, the documentation, the videos, and the code is published under a [Creative Commons BY-SA 4.0](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/LICENSE.txt) License.
+All the material in this repository, including the tuning strategy, the documentation, the linked videos, and the code is published under a [Creative Commons BY-SA 4.0](https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/LICENSE.txt) License.
