@@ -8,7 +8,7 @@ This repository describes an approach to tuning the [Music Thing Modular](https:
 
 
 The 'tuning strategy' provides a simple rule to ensure that the notes in the sequences produced by VOLTAGES all fall on 12 tone equal-tempered 
-('[12TET](https://en.wikipedia.org/wiki/12_equal_temperament)') pitches, such that a quantiser is not required. Understanding how VOLTAGES works then points to slider settings which 
+('[12TET](https://en.wikipedia.org/wiki/12_equal_temperament)') pitches, such that **a quantiser is not required**. Understanding how VOLTAGES works then points to slider settings which 
 produce sequences based on diatonic and symmetric scales, modes, arpeggiated chords and other musically useful structures.
 
 The tuning strategy is described in detail in [documentation here](https://github.com/m0xpd/TuningStrategyForVoltages/tree/main/Documentation).
