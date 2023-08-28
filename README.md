@@ -2,7 +2,7 @@
 This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['VOLTAGES' Expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/)
 
 <p width=100%, align="center">
-<img width=50%, src="https://github.com/m0xpd/TuningStrategyForVoltages/assets/3152962/b01b104b-804a-4c30-a09a-38c9ae1179f7">
+<img width=30%, src="https://github.com/m0xpd/TuningStrategyForVoltages/assets/3152962/b01b104b-804a-4c30-a09a-38c9ae1179f7">
 </p>
 
 
