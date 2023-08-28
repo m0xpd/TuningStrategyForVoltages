@@ -30,7 +30,7 @@ The tuning strategy is applicable to other 'Klee-type' sequencers.
 
 The publication of this work doesn't imply that VOLTAGES *needs* anything as formal as a 'tuning strategy'.
 
-VOLTAGES and the Turing Machine are perfect - the Turing Machine was the first commercial module I purchased and is the only one I couldn't consider being without. VOLTAGES almost 
+VOLTAGES and the Turing Machine are beautiful - the Turing Machine was the first commercial module I purchased and is the only one I couldn't consider being without. VOLTAGES almost 
 'tunes itself' and it inspires creative play and experimentation. 
 
 The results and ideas in this repository are simply reflections inspired by VOLTAGES. These reflections were made visible by standing on the shoulders of giants, such as Tom Whitwell, 
