@@ -1,6 +1,12 @@
 # A Tuning Strategy for VOLTAGES
 This repository describes an approach to tuning the [Music Thing Modular](https://www.musicthing.co.uk/) ['VOLTAGES' Expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/)
 
+<p width=100%, align="center">
+<img width=50%, src="https://github.com/m0xpd/TuningStrategyForVoltages/assets/3152962/b01b104b-804a-4c30-a09a-38c9ae1179f7">
+</p>
+
+
+
 The 'tuning strategy' provides a simple rule to ensure that the notes in the sequences produced by VOLTAGES all fall on 12 tone equal-tempered 
 ('[12TET](https://en.wikipedia.org/wiki/12_equal_temperament)') pitches, such that a quantiser is not required. Understanding how VOLTAGES works then points to slider settings which 
 produce sequences based on diatonic and symmetric scales, modes, arpeggiated chords and other musically useful structures.
