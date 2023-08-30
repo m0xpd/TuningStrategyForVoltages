@@ -30,7 +30,8 @@ On paper, it seemed rather easy to rectify this by changing the resistor network
 similar change to the SCALE potentiometer from 10k to 100k. Of course, swapping out the resistor network in an existing 
 Voltages module is not practical so …
 
-image
+![image](https://github.com/m0xpd/TuningStrategyForVoltages/assets/3152962/9217e191-e197-4d69-9e2d-1a1b6aa1a97d)
+
 
 I have purchased a second Voltages module from Thonk and made the proposed modification yesterday – it works as predicted – 
 the semitones now appear exactly as theory predicts (close enough to a linear disposition along the slider travel)… >>
