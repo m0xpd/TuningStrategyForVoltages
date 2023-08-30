@@ -21,7 +21,8 @@ that the whole travel of a single slider gives an octave pitch change / 1V CV ch
 This, along with the non-linearity mentioned above, places 13 semitones ‘awkwardly’ along the slider, with most of the 
 squeezed up at the right-hand end…
 
-image
+![image](https://github.com/m0xpd/TuningStrategyForVoltages/assets/3152962/6d325231-f5c7-43cf-83a2-81b6fb5aa235)
+
 
 So – given my preferred way of using Voltages - the non-linearity is a nuisance.
 
