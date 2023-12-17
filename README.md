@@ -30,6 +30,9 @@ The tuning strategy is applicable to other 'Klee-type' sequencers.
 
 There is now a sequencer, which implements this tuning strategy directly. It is a Random Looping Sequencer, called [STRACHEY](https://github.com/m0xpd/STRACHEY)
 
+<p align='center'>
+<img width=20%, src="https://github.com/m0xpd/TuningStrategyForVoltages/blob/main/Documentation/Graphics/STRACHEY%20Front%20Left%20Perspective.jpg">  
+</p>
 
 # Acknowlegements
 
