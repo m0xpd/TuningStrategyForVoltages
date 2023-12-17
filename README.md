@@ -26,7 +26,7 @@ Turing Machine itself, to avoid tuning problems caused when the GATES and PULSES
 
 The tuning strategy is applicable to other 'Klee-type' sequencers.
 
-# Implementing the Strategy in Hardware - STRACHEY
+# Implementing the Strategy in Hardware
 
 There is now a sequencer, which implements this tuning strategy directly. It is a Random Looping Sequencer, called [STRACHEY](https://github.com/m0xpd/STRACHEY)
 
